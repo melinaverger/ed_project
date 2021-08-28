@@ -8,7 +8,7 @@ from online courses.
 
 All the codes are located in the folder ```src/```.
 
-To run all the project (about 1h25min):
+To run all the project (~ 40min-1h25min):
 ```python
 cd src
 
