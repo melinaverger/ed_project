@@ -16,3 +16,6 @@ python main.py
 ```
 
 You can also run the codes individually in the same manner.
+
+Check that you have the needed packages or install them:
+```pip install -r requirements.txt```
